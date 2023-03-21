@@ -91,6 +91,14 @@ button.key.shift.left {
     color: white;
     background-color: #585858;
 }
+
+button.key.shift.right {
+    width: 152px;
+    padding-left: 95px;
+    color: white;
+    background-color: #585858;
+}
+
 button.key.backspace {
     width: 130px;
     padding-left: 26px;
