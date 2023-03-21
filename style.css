@@ -91,14 +91,6 @@ button.key.shift.left {
     color: white;
     background-color: #585858;
 }
-
-button.key.shift.right {
-    width: 152px;
-    padding-left: 95px;
-    color: white;
-    background-color: #585858;
-}
-
 button.key.backspace {
     width: 130px;
     padding-left: 26px;
@@ -125,10 +117,6 @@ button.key.caps {
     color: white;
     background-color: #585858;
 }
-/* .caps:hover{
-    background-color: #aaf683;
-} */
-
 button.slash {
     width: 83px;
     color: white;
@@ -205,9 +193,3 @@ td {
 .final{
     visibility: visible;
 }
-/* .change{
-    display: none;
-} */
-/* .num{
-    display: block
-} */
